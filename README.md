@@ -6,4 +6,4 @@ Curso fullstack
 
 19-05-23 AULA SOBRE SCRUM E EXEMPLOS NO SQL
 
-teste 123
+
